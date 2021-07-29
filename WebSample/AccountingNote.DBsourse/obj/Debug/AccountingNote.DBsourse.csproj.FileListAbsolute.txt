@@ -1,0 +1,6 @@
+E:\WinForm\TryWebForm1\AccountingNote.DBsourse\bin\Debug\AccountingNote.DBsourse.dll
+E:\WinForm\TryWebForm1\AccountingNote.DBsourse\bin\Debug\AccountingNote.DBsourse.pdb
+E:\WinForm\TryWebForm1\AccountingNote.DBsourse\obj\Debug\AccountingNote.DBsourse.csproj.AssemblyReference.cache
+E:\WinForm\TryWebForm1\AccountingNote.DBsourse\obj\Debug\AccountingNote.DBsourse.csproj.CoreCompileInputs.cache
+E:\WinForm\TryWebForm1\AccountingNote.DBsourse\obj\Debug\AccountingNote.DBsourse.dll
+E:\WinForm\TryWebForm1\AccountingNote.DBsourse\obj\Debug\AccountingNote.DBsourse.pdb
